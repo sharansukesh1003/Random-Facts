@@ -5,3 +5,5 @@ Like random useless facts, checkout this chrome extension.
 2. Turn on developer mode, then click on load unpacked.
 3. Select the folder location of the cloned repository.
 4. Enjoy :).
+## Images
+![RandomFacts](https://user-images.githubusercontent.com/77352136/135279066-f8b7cd3a-304b-4e5e-9f92-073ff97734ad.png)
