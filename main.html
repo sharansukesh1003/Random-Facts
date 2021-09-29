@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+     <link rel="stylesheet" href="main.css">
+    <title>Random Usleless Facts</title>
+</head>
+<body>
+    <div class="parent-div">
+        <p id="unHide" class="hide text-center mt-2 text-white fs-5 fw-bold">Did you <span class="head-color">Know ?</span></p>
+        <div id="hideDivider" class="hide divider mx-auto mb-2"></div>
+        <p id="randomFacts" class="mx-3 text-white text-center fst-italic">
+            <div class="d-flex justify-content-center">
+                <div id="hide" class="spinner-border text-warning" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                </div>
+            </div>
+        </p>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>

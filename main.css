@@ -1,0 +1,18 @@
+.parent-div{
+    width: 300px;
+}
+.hide{
+    display: none;
+}
+body{
+background-color: black;
+}
+.head-color{
+    color: #eed027;
+}
+.divider{
+    width: 100px;
+    height: 3px;
+    background-color: #eed027;
+    border-radius: 10px;
+}
